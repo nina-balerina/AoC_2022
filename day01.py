@@ -16,4 +16,3 @@ print('part 1: %s' % max(suma))
 
 suma.sort()
 print('part 2: %s' % sum(suma[counter-2: counter+1])) 
-print()
